@@ -1,4 +1,4 @@
-# AVIAN — code
+# AVIAN: Autonomous Visual Indoor Aerial Navigation
 
 Onboard flight code and analysis notebooks for AVIAN, an indoor GPS-denied position-hold
 quadrotor built on a Raspberry Pi Zero 2 W, a Pi Camera, and a single printed chessboard
