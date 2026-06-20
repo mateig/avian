@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Large media artifacts
+*.mp4
+*.mov
+*.h264
+*.gif
+
+# Runtime outputs
+pf_output*.npz
+
+# Logged recordings live in the project's data/ directory, outside this repo
+research/data
+
+# Local tool state
+.claude/
